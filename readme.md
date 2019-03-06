@@ -1,3 +1,12 @@
+Here is My First simple web application(using php Laravel )  with following functionalities:
+1- Showing the data saved in the database table "Students"
+2- Using blade for rendering results
+3- Using Eloquent to access your database
+4- Connections between Routs and Models should done through controllers
+------------------------------------------------------------------------------
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
